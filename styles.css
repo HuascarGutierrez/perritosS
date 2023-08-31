@@ -4,6 +4,16 @@
     box-sizing: border-box;
 }
 body {
+    background-color: darkslategray;
     height: 100vh;
     width: 100vw;
+}
+article {
+    width: fit-content;
+    height: fit-content;
+}
+button {
+    background-color: black;
+    color: azure;
+    border-style:none;
 }
